@@ -1,0 +1,18 @@
+/*Style sheet created for HTML file(external). It is possible to reuse this file as many times as you would like.*/
+h1{
+   color:#ffffff;
+   Text-align:center;
+}
+main{
+background-color:#B3B3B3;
+}
+
+h2{
+color: #0000ff;
+}
+aside {
+Display:none;
+}
+section{
+background-color:#666666;
+}
